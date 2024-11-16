@@ -1,1 +1,3 @@
-# kentuckyfriedcock.github.io
+# Собесы!
+
+[Алгоритмы](src/algo.md)
